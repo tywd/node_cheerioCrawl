@@ -4,14 +4,6 @@ var url = 'http://sports.sina.com.cn';
 // 数据格式 
 // 提取网页的重要信息，我们可以定义数据格式：
 
-// [{
-//     rankTitle : rankTitle,
-//     rankData :[{
-//         rankNum : rankNum,
-//         content : content
-//     }]
-// }]
-// 
 http.get(url,(res) => {
     var html = '';
 

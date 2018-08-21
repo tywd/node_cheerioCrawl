@@ -36,7 +36,7 @@ function filterSlideList(html) {
 
         /* 轮播图列表信息遍历 */
         slideList.find('li').each(function(item) {
-            console.log($(this).find('a').attr('href'));
+            //console.log($(this).find('a').attr('href'));
             var pic = $(this);
             // 找到a标签并获取href属性
             var pic_href = pic.find('a').attr('href');
@@ -71,10 +71,10 @@ function printInfo(slideListData) {
         // 获取图片信息
         var pic_message = item.pic_message;
         // 打印信息
-        // console.log('第' + (++count) + '个轮播图');
-        // console.log(pic_message);
-        // console.log(pic_href);
-        // console.log(pic_src);
-        // console.log('\n');
+        console.log('第' + (++count) + '个轮播图');
+        console.log(pic_message);
+        console.log(pic_href);
+        console.log(pic_src);
+        console.log('\n');
     });
 }

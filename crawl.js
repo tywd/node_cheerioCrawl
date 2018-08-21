@@ -24,6 +24,7 @@ http.get(url,(res) => {
 
     res.on('end',() =>{
     	const $ = cheerio.load(html);
+        //j_tianYiMainFeed是要爬取数据的位置的父元素id
     	$('#j_tianYiMainFeed a').each(function(){
     		const newUrl = $(this).attr('href');
     		console.log(newUrl);
@@ -34,14 +35,3 @@ http.get(url,(res) => {
 }).on('error',(e) =>{
     console.log('获取数据出错');
 });
-
-function filterList(html){
-	if(html){
-		const $ = cheerio.load(html);
-		
-
-		return  listData;
-	}else{
-		console.log('无数据传入！');
-	}
-}
