@@ -18,7 +18,7 @@ nodejs简易爬取新浪体育的数据 新浪体育地址：http://sports.sina.
 
 1. var cheerio = require('cheerio');//引入下好的模块
 2. 这里文件我没有把install 下来的 node_modules包push上来，众所周知，这包太大了，所以就自己下拉去npm install吧
-3. 之后就看代码文件咯
+3. 写完代码逻辑，去到cmd，进行node 你的文件名.js (例如：node crawl.js),就可以看到爬下来的数据了
 
 #### 参与贡献
 
