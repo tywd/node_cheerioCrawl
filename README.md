@@ -1,7 +1,7 @@
 # nodejs
 
 #### 项目介绍
-nodejs简易爬取新浪体育的数据 新浪体育地址：http://sports.sina.com.cn/
+nodejs简易爬取新浪体育的新闻数据 新浪体育地址：http://sports.sina.com.cn/
 
 #### 软件架构
 软件架构说明
@@ -20,12 +20,9 @@ nodejs简易爬取新浪体育的数据 新浪体育地址：http://sports.sina.
 2. 这里文件我没有把install 下来的 node_modules包push上来，众所周知，这包太大了，所以就自己下拉去npm install吧
 3. 写完代码逻辑，去到cmd，进行node 你的文件名.js (例如：node crawl.js),就可以看到爬下来的数据了
 
-#### 参与贡献
+#### 项目说明
 
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+1.自己想做项目，但是对于数据太少，开始对于node爬虫爬取数据感兴趣，后续会继续更新，请继续关注
 
 
 #### 码云特技
