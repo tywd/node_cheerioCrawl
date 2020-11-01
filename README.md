@@ -24,13 +24,5 @@ nodejs简易爬取新浪体育的新闻数据 新浪体育地址：http://sports
 
 1. 自己想做项目，但是对于数据太少，开始对于node爬虫爬取数据感兴趣，由于刚开始，爬取的数据比较粗略，后续会继续更新，请继续关注!
 2. 导出excel 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0821/191410_276b483b_1022787.jpeg "1534849938(1).jpg")
+![导出excel表格](https://images.gitee.com/uploads/images/2018/0821/191410_276b483b_1022787.jpeg "1534849938(1).jpg")
 
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)

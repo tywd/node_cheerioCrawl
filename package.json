@@ -1,0 +1,23 @@
+{
+  "name": "node_cheeriocrawl",
+  "version": "1.0.0",
+  "description": "爬取",
+  "main": "crawl.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "^0.0.1-security",
+    "node-xlsx": "^0.15.0",
+    "request": "^2.88.0",
+    "superagent": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:cjty/nodejs.git"
+  },
+  "author": "cjty",
+  "license": "ISC"
+}
