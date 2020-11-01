@@ -20,13 +20,17 @@ http.get(url, (res) => {
   });
   res.on('end', () => {
     const $ = cheerio.load(html);
-    let arr_name,arr_answer = [];
+    let arr_name = [],arr_answer = [];
     let _contents = $('.test_contents');
     for (item in _contents) {
       if (item <= 40) {
         arr_name.push($(_contents[item]).find('.fb').html())
-        arr_answer.push($(_contents[item]).find('.i_mid').text())
+        var answer = $(_contents[item]).find('.i_mid').
+        arr_answer.push(answer)
       }
+    }
+    for(item in arr_answer){
+      $(arr_answer[item]).text().split('、')[1];
     }
     console.log(arr_name,arr_answer)
   });
