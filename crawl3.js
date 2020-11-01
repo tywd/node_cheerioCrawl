@@ -20,15 +20,15 @@ http.get(url, (res) => {
   });
   res.on('end', () => {
     const $ = cheerio.load(html);
-    var _contents = document.getElementsByClassName('test_contents')
+    let arr_name,arr_answer = [];
+    let _contents = $('.test_contents');
     for (item in _contents) {
       if (item <= 40) {
-        arr.push(_contents[item])
+        arr_name.push($(_contents[item]).find('.fb').html())
+        arr_answer.push($(_contents[item]).find('.i_mid').text())
       }
     }
-    console.log(arr)
-    $(arr[0]).find('.fb').text()
-    $(arr[0]).find('.sels_list')
+    console.log(arr_name,arr_answer)
   });
 }).on('error', (e) => {
   console.log('获取数据出错');
