@@ -10,7 +10,9 @@
     "request": "^2.88.0",
     "superagent": "^6.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "iconv-lite": "^0.6.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

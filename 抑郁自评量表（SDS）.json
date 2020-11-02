@@ -1,0 +1,1122 @@
+[
+    {
+        "seqId": 44,
+        "content": "我真的爱这个人吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我与他(她)在一起时是否快乐",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们一起做事(学习,工作,娱乐)时是否有乐趣",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "他(她)让我感到可靠吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "假如我病了,累了或者感到忧虑时,他(她)能关心抚慰我吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我从心理信任他(她)吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "他(她)是否有什么性格上的东西让我感觉到惶惶不安或者令我不舒服",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "他(她)是否有我不喜欢的某些东西",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "他(她)是否向我隐藏了什么",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我是否感到他(她)在爱我,但希望有些地方要改一改",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我之所以要选这个人是因为我觉得我有些地方要改一改",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我之所以要选这个人是因为我觉得应如此选择吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我觉得双方信仰一致很重要",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们父母双方的文化水平很一致",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们父母双方婚姻结构(平等,父做主,母做主)一样",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们对赚钱和消费的看法是否一致",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们的娱乐方式是否一致",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们对读书,学习的看法是否一致",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们在扶养,教育孩子方面的看法是否相近",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们对性的态度是否相似",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "如果我与他(她)的信仰价值观不一样,是否能共同生活",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "与其他人相比,我是否更愿意和他(她)在一起",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "他(她)是否最喜欢和我在一起",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "如果他(她)病了,我能照料他(她)吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "如果他(她)疲倦了,我能帮助他(她)吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "如果他(她)情绪不好,我能安慰他(她)吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "如果他(她)依赖性强,我能接受吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "如果他(她)行为专横,我能接纳或控制吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "父母赞同我们的结合吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "他(她)是个负责任的人吗",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "大多数时候我们是否和谐相处",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们能否一起相互促进",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们能够妥善处理彼此间的分歧",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "他(她)能否遵守协议或信守诺言",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们能够很好地交流思想和感情",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我们是否都愿意为爱情承担义务",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我是否感到对方接受了我",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我是否接受了对方真实的自我",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "我是否很了解对方",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    },
+    {
+        "seqId": 44,
+        "content": "对方是否很了解我",
+        "questionNo": 1,
+        "testAnswerDtos": [
+            {
+                "seqId": 175,
+                "questionId": 44,
+                "answerNo": "A",
+                "content": "是",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 176,
+                "questionId": 44,
+                "answerNo": "B",
+                "content": "无法确定",
+                "contentDesc": ""
+            },
+            {
+                "seqId": 177,
+                "questionId": 44,
+                "answerNo": "C",
+                "content": "否",
+                "contentDesc": ""
+            }
+        ]
+    }
+]
