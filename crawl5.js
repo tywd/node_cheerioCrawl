@@ -23,36 +23,44 @@ http.get(url, (res) => {
   });
   res.on('end', () => {
     const $ = cheerio.load(html, { decodeEntities: false });
-    let fx1 = jsdom.getElementsByClassName('df')[0].childNodes
-    console.log(jsdom)
-    for (item in fx1) {
-      if (item < 8) {
-        console.log(fx1[item].querySelectorAll('.mb25')[0].innerText.split('.')[1])
+    var fx1 = document.getElementsByClassName('df')[0].childNodes;
+var arrAnswer = []
+var arrContent = []
+var arrContent2 = []
+for(item in fx1){
+    var answer_item = []
+    if(item < 9){
+       var answer_content  = fx1[item].querySelectorAll('ul')[0];
+        arrContent.push(answer_content)
+    }
+}
+
+//         console.log(arrContent)
+var answer3 = [],answer4 = []
+// console.log(arrContent[0])
+for(item2 in arrContent){
+    let arr2 = arrContent[item2].querySelectorAll('li')
+    console.log(arr2)
+    answer4 = [] 
+    for (item3 in arr2) {
+        if (item3 <= 4) {
+//           let answer_str = arr2[item3].innerText.split('.')[1]
+          let answer_str = arr2[item3].innerText
+//             console.log(answer_str)
+          answer4.push({
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": JSON.stringify(parseInt(item3) + 1),
+            "content": answer_str,
+            "contentDesc": ""
+          })
+        }
       }
-    }
-    var q_data = {
-      "seqId": 0,
-      "name": "",
-      "tipsTitle": "",
-      "price": "0",
-      "originalPrice": "0",
-      "visitNum": 0,
-      "elapsedTime": 0,
-      "questionNumber": 0,
-      "commentNum": 0,
-      "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
-      "createTime": "2020-08-05 11:16:30",
-      // "questions": arr_name
-    }
-    // console.log(arr_name)
-    // copy(q_data)
-    // writeFile(JSON.stringify(arr_name))
-    var fx1 = document.getElementsByClassName('df')[0].childNodes
-    for(item in fx1){
-      if(item < 8){
-            console.log(fx1[item].querySelectorAll('.mb20')[0].innerText)
-       }
-   }
+    answer3.push(answer4)
+}
+// console.log(answer3)
+        
+        
   });
 }).on('error', (e) => {
   console.error('获取数据出错', e);
