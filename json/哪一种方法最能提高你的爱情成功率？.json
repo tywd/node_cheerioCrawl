@@ -1,0 +1,345 @@
+{
+  "seqId": 0,
+  "name": "哪一种方法最能提高你的爱情成功率？",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
+  "commentNum": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "2020-08-05 11:16:30",
+  "questions": [
+    {
+      "seqId": 44,
+      "content": "你会帮朋友照看自己一点都不喜欢的宠物吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "会的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不会",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你会一个人去看自己喜欢的电影吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 会的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": " 不会",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你对成功的标准是一成不变的吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你对平时的消费有计划吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你觉得自己是个特别守时的人吗？特别是在谈恋爱方面",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你对对方喜欢但自己却不怎么喜欢的事情会如何？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 培养兴趣",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": " 总会表示出厌倦",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "特别辛苦的旅游方式你会参加吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "没有约会的节假日",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": " 不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你觉得自己是个很倔强的人吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不是的",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "对于不喜欢但必须面对的人时",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 假装热情",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": " 不冷不热，会不时地表现出不耐烦",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你觉得自己特善于和陌生人打交道吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": " 不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "每到一个新地方",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "对于恋爱以外的人对你表达爱意",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": " 暗地里交往，心存幻想，也许这会是一段美丽爱情的开始",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": " 婉言谢绝",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你是个特别喜欢刨根问底的人吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是的",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "不是",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "当你走错地方时",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "赶紧退出",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": " 装作若无其事，仔细观察",
+          "contentDesc": ""
+        }
+      ]
+    }
+  ]
+}

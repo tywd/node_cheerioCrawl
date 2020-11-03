@@ -3,7 +3,7 @@ var http = require('http');
 var cheerio = require('cheerio');
 var fs = require("fs");//引入文件读写的模块
 const iconv = require('iconv-lite')
-var url = 'http://www.qqtest.com/s/9.html';
+var url = 'http://www.qqtest.com/s/158.html';
 var obj = [
   // {
   //   content: '',
@@ -38,21 +38,35 @@ http.get(url, (res) => {
               "seqId": 175,
               "questionId": 44,
               "answerNo": "A",
-              "content": "是",
+              "content": "完全不符合",
               "contentDesc": ""
             },
             {
               "seqId": 176,
               "questionId": 44,
               "answerNo": "B",
-              "content": "无法确定",
+              "content": "有些不符合",
               "contentDesc": ""
             },
             {
               "seqId": 177,
               "questionId": 44,
               "answerNo": "C",
-              "content": "否",
+              "content": "不好确定",
+              "contentDesc": ""
+            },
+            {
+              "seqId": 177,
+              "questionId": 44,
+              "answerNo": "D",
+              "content": "比较符合",
+              "contentDesc": ""
+            },
+            {
+              "seqId": 177,
+              "questionId": 44,
+              "answerNo": "E",
+              "content": "完全符合",
               "contentDesc": ""
             }
           ]
@@ -86,5 +100,5 @@ http.get(url, (res) => {
 
 //写出文件
 function writeFile(params) {
-  fs.writeFileSync('抑郁自评量表（SDS）.json', params, { encoding: 'utf-8', mode: 438 /*=0666*/, flag: 'w' });
+  fs.writeFileSync('爱情类型测试.json', params, { encoding: 'utf-8', mode: 438 /*=0666*/, flag: 'w' });
 }

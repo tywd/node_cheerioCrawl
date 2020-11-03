@@ -1,0 +1,875 @@
+{
+    "seqId": 0,
+    "name": "婚姻幸福指数测试",
+    "tipsTitle": "",
+    "price": "0",
+    "originalPrice": "0",
+    "visitNum": 0,
+    "elapsedTime": 0,
+    "questionNumber": 0,
+    "commentNum": 0,
+    "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+    "createTime": "2020-08-05 11:16:30",
+    "questions": [
+      {
+        "seqId": 44,
+        "content": "你从来都没有后悔嫁（娶）目前婚姻伴侣的念头",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "意见不同时",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "教养子女上",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你努力引导对方在教养子女上有共识",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "对方认错时",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "当对方有挫折感的时候",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "家庭财务上",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你满意自己的性生活",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你愿意配合对方的避孕方式",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "家中出现危机事件",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "当出现“第三者”诱惑时",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "当夫（妻）涉入夫家或娘家纠纷时",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你乐意做家务",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你绝不会当面或背后批评自己的伴侣",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你主动会分享成长的内容给对方",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你支持对方旅游、学习或其他的进修活动",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你关心伴侣的身心健康状态",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你支持伴侣去达成他（她）期待中的人生目标",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你以对方为荣",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      },
+      {
+        "seqId": 44,
+        "content": "你以自己为荣",
+        "questionNo": 1,
+        "createTime": "2020-08-05 11:16:30",
+        "testAnswerDtos": [
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "1",
+            "content": "完全做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "2",
+            "content": "经常做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "3",
+            "content": "偶尔做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "4",
+            "content": "极少做到",
+            "contentDesc": ""
+          },
+          {
+            "seqId": 175,
+            "questionId": 44,
+            "answerNo": "5",
+            "content": "完全做不到",
+            "contentDesc": ""
+          }
+        ]
+      }
+    ]
+  }
