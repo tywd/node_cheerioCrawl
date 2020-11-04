@@ -1,33 +1,29 @@
 {
-  "id": 1463,
-  "testCatId": 9,
-  "name": "测试自己是不是性冷淡",
-  "tipsTitle": "测试你是不是性冷淡？",
-  "shareImage": "https://img.ydlcdn.com/file/2018/12/11/f0r5btwra2h3mv5z.jpg",
-  "price": 0,
-  "originalPrice": 19.9,
-  "visitNum": 205282,
-  "testSource": 1,
-  "reportPages": 3,
-  "elapsedTime": 4,
-  "questionNumber": 12,
+  "seqId": 0,
+  "name": "健康情绪自我心理测试",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
   "commentNum": 0,
-  "desc": "<p><strong>测试自己是不是<a href=\"http://www.yidianling.com/xinglengdan/\" target=\"_blank\">性冷淡</a>？</strong></p><p><a href=\"http://www.yidianling.com/xinglengdan/\" target=\"_blank\">性冷淡</a>是女性常见的一种性功能障碍，如今逐渐被“性欲低下”一词代替。</p><p>引起女性性欲低下的原因复杂多样，既有<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>的，也有生理的。</p><p>爱情刚刚到来的时候，因为强烈的吸引和感官的刺激，我们对陌生的对方的胴体感到充满欲望，随着时间的流逝，你还能一如既往不会冷淡吗？</p><p>想要知道自己的结果吗？点进去测试一下吧！</p>",
-  "reportId": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "Dec 26, 2018 2:33:21 PM",
   "questions": [
     {
-      "id": 22601,
-      "content": "你会主动要求啪啪啪吗？",
+      "id": 23261,
+      "content": "我有能力克服各种困难：",
       "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77230,
-          "questionId": 22601,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "会",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
@@ -36,25 +32,25 @@
           "jumpAnsId": "2"
         },
         {
-          "id": 77231,
-          "questionId": 22601,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "偶尔",
+          "content": "不一定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
           "jumpAnsId": "2"
         },
         {
-          "id": 77232,
-          "questionId": 22601,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不会",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
           "jumpAnsId": "2"
@@ -62,515 +58,560 @@
       ]
     },
     {
-      "id": 22602,
-      "content": "性是否会给你带来极大的快感？",
-      "questionNo": "2",
+      "id": 23261,
+      "content": "猛兽即使是关在铁笼里，我见了也会惴惴不安",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77233,
-          "questionId": 22602,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "3"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77234,
-          "questionId": 22602,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "偶尔",
+          "content": "不一定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "3"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77235,
-          "questionId": 22602,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不是",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "3"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22603,
-      "content": "你是否认为尝试新的花样才有意思？",
-      "questionNo": "3",
+      "id": 23261,
+      "content": "如果我能到一个新环境，我要",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77236,
-          "questionId": 22603,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "把生活安排得和从前不一样",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "4"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77237,
-          "questionId": 22603,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "偶尔",
+          "content": "不确定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "4"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77238,
-          "questionId": 22603,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不是",
+          "content": "和从前相仿",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "4"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22604,
-      "content": "你是否频繁自慰？",
-      "questionNo": "4",
+      "id": 23261,
+      "content": " 整个一生中，我一直觉得我能达到所预期的目标",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77239,
-          "questionId": 22604,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "5"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77240,
-          "questionId": 22604,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "偶尔",
+          "content": "不一定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "5"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77241,
-          "questionId": 22604,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不是",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "5"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22605,
-      "content": "如果一个月你们都不啪啪啪一次，你是不是会怀疑对方已经不爱你了？",
-      "questionNo": "5",
+      "id": 23261,
+      "content": "我在小学时敬佩的老师，到现在仍然令我敬佩",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77242,
-          "questionId": 22605,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "6"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77243,
-          "questionId": 22605,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "可能",
+          "content": "不一定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "6"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77244,
-          "questionId": 22605,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不是",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "6"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22606,
-      "content": "你们某次结束后，你没有达到高潮，是否会有些失望？",
-      "questionNo": "6",
+      "id": 23261,
+      "content": "不知为什么，有些人总是回避我或冷淡我",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77245,
-          "questionId": 22606,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "7"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77246,
-          "questionId": 22606,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "偶尔",
+          "content": "不一定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "7"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77247,
-          "questionId": 22606,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不是",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "7"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22607,
-      "content": "你觉得啪啪啪是很下流的事？",
-      "questionNo": "7",
+      "id": 23261,
+      "content": "我虽善意待人，却常常得不到好报",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77248,
-          "questionId": 22607,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": "",
-          "image": "",
-          "score": 3,
-          "maxScore": null,
-          "thirdPartyAnswerId": 0,
-          "jumpAnsId": "8"
-        },
-        {
-          "id": 77249,
-          "questionId": 22607,
-          "answerNo": "2",
-          "content": "可能",
-          "contentDesc": "",
-          "image": "",
-          "score": 2,
-          "maxScore": null,
-          "thirdPartyAnswerId": 0,
-          "jumpAnsId": "8"
-        },
-        {
-          "id": 77250,
-          "questionId": 22607,
-          "answerNo": "3",
-          "content": "不是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "8"
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "不一定",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "不是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22608,
-      "content": "你觉得世界上没有灵肉分离这回事？",
-      "questionNo": "8",
+      "id": 23261,
+      "content": "在大街上，我常常避开我所不愿意打招呼的人",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77251,
-          "questionId": 22608,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": "",
-          "image": "",
-          "score": 3,
-          "maxScore": null,
-          "thirdPartyAnswerId": 0,
-          "jumpAnsId": "9"
-        },
-        {
-          "id": 77252,
-          "questionId": 22608,
-          "answerNo": "2",
-          "content": "可能",
-          "contentDesc": "",
-          "image": "",
-          "score": 2,
-          "maxScore": null,
-          "thirdPartyAnswerId": 0,
-          "jumpAnsId": "9"
-        },
-        {
-          "id": 77253,
-          "questionId": 22608,
-          "answerNo": "3",
-          "content": "不是",
+          "content": "极少如此",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "9"
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "偶尔如此",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "有时如此",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22609,
-      "content": "你考虑过做一个丁克？",
-      "questionNo": "9",
+      "id": 23261,
+      "content": "当我聚精会神地欣赏音乐时，如果有人在旁高谈阔论我会感到恼怒",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77254,
-          "questionId": 22609,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "我仍能专心听音乐",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "10"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77255,
-          "questionId": 22609,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "偶尔",
+          "content": "介于A. C.之间",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "10"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77256,
-          "questionId": 22609,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不是",
+          "content": "不能专心并感到恼怒",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "10"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22610,
-      "content": "你梦遗/春梦的次数频繁吗？",
-      "questionNo": "10",
+      "id": 23261,
+      "content": "我不论到什么地方，都能清楚地辨别方向",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77257,
-          "questionId": 22610,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "频繁",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "11"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77258,
-          "questionId": 22610,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "有时候",
+          "content": "不一定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "11"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77259,
-          "questionId": 22610,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "很少",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "11"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22611,
-      "content": "如果对方身体不适，而你很想要，你会强迫对方跟你啪啪啪吗？",
-      "questionNo": "11",
+      "id": 23261,
+      "content": "我热爱我所学的知识",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77260,
-          "questionId": 22611,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "会",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "12"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77261,
-          "questionId": 22611,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "偶尔",
+          "content": "不一定",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "12"
+          "jumpAnsId": "2"
         },
         {
-          "id": 77262,
-          "questionId": 22611,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不会",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "12"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 22612,
-      "content": "你会假装高潮吗？",
-      "questionNo": "12",
+      "id": 23261,
+      "content": "生动的梦境常常干扰我的睡眠",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 77263,
-          "questionId": 22612,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "会",
+          "content": "经常如此",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": ""
+          "jumpAnsId": "2"
         },
         {
-          "id": 77264,
-          "questionId": 22612,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "有时候",
+          "content": "偶尔如此",
           "contentDesc": "",
           "image": "",
-          "score": 2,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": ""
+          "jumpAnsId": "2"
         },
         {
-          "id": 77265,
-          "questionId": 22612,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "3",
-          "content": "不会",
+          "content": "从不如此",
           "contentDesc": "",
           "image": "",
-          "score": 3,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": ""
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "季节气候的变化一般不影响我的情绪",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "介于 A. C.之间",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "不是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
         }
       ]
     }
   ],
-  "testResultId": 26406701,
+  "testResultId": 26403930,
   "hasUnused": true,
-  "createTime": "Dec 11, 2018 4:44:47 PM",
   "webQuestionUrl": "",
   "maxCoupon": null,
   "inCode": "",

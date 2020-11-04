@@ -1,23 +1,19 @@
 {
-  "id": 1542,
-  "testCatId": 9,
-  "name": "专注力测试题",
-  "tipsTitle": "测试你的专注力有多强？",
-  "shareImage": "https://img.ydlcdn.com/file/2018/12/26/2zttvk14yj0evetb.jpg",
-  "price": 0,
-  "originalPrice": 19.9,
-  "visitNum": 15274,
-  "testSource": 1,
-  "reportPages": 4,
-  "elapsedTime": 5,
-  "questionNumber": 15,
+  "seqId": 0,
+  "name": "哪一种方法最能提高你的爱情成功率？",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
   "commentNum": 0,
-  "desc": "<p>专注力从<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>学的角度来讲就是排出外界干扰以及私心杂念，专注于做某件事情上。</p><p>专注力是提高学习工作效率的根本，性情浮躁，没有良好的专注力，做事情就会缺乏效率，难以有深入的发展。</p><p>同时，一个人如果总是无法集中精力去做某事，也反映了自我控制力差的表现。</p><p>那么，你的专注力有多强呢？通过下面专注力测试题来看看吧！</p>",
-  "reportId": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "Dec 26, 2018 2:33:21 PM",
   "questions": [
     {
       "id": 23261,
-      "content": "听别人说话时经常心不在焉。",
+      "content": "你会帮朋友照看自己一点都不喜欢的宠物吗？",
       "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
@@ -27,7 +23,7 @@
           "id": 78942,
           "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "会的",
           "contentDesc": "",
           "image": "",
           "score": 1,
@@ -36,13 +32,13 @@
           "jumpAnsId": "2"
         },
         {
-          "id": 78943,
+          "id": 78942,
           "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不会",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
           "jumpAnsId": "2"
@@ -50,485 +46,484 @@
       ]
     },
     {
-      "id": 23262,
-      "content": "工作（学习）时，往往急于想干另一项工作（学习）。",
-      "questionNo": "2",
+      "id": 23261,
+      "content": "你会一个人去看自己喜欢的电影吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78944,
-          "questionId": 23262,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 会的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "3"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78945,
-          "questionId": 23262,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": " 不会",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "3"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23263,
-      "content": "一遇到担心的事，便终日萦绕在心。",
-      "questionNo": "3",
+      "id": 23261,
+      "content": "你对成功的标准是一成不变的吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78946,
-          "questionId": 23263,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "4"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78947,
-          "questionId": 23263,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "4"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23264,
-      "content": "工作（学习）时，常常想起毫无关联的事情。",
-      "questionNo": "4",
+      "id": 23261,
+      "content": "你对平时的消费有计划吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78948,
-          "questionId": 23264,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "5"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78949,
-          "questionId": 23264,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "5"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23265,
-      "content": "工作（学习）时，总觉得时间过得太慢。",
-      "questionNo": "5",
+      "id": 23261,
+      "content": "你觉得自己是个特别守时的人吗？特别是在谈恋爱方面",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78950,
-          "questionId": 23265,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "6"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78951,
-          "questionId": 23265,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "6"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23266,
-      "content": "被别人指责时的情景始终不会忘记。",
-      "questionNo": "6",
+      "id": 23261,
+      "content": "你对对方喜欢但自己却不怎么喜欢的事情会如何？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78952,
-          "questionId": 23266,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 培养兴趣",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "7"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78953,
-          "questionId": 23266,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": " 总会表示出厌倦",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "7"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23267,
-      "content": "有时忙这忙那，什么都想干似地度过一天。",
-      "questionNo": "7",
+      "id": 23261,
+      "content": "特别辛苦的旅游方式你会参加吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78954,
-          "questionId": 23267,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "8"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78955,
-          "questionId": 23267,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "8"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23268,
-      "content": "想干的事情很多，却不能专心于一件事情。",
-      "questionNo": "8",
+      "id": 23261,
+      "content": "没有约会的节假日，你会感觉很落寞吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78956,
-          "questionId": 23268,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "9"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78957,
-          "questionId": 23268,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": " 不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "9"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23269,
-      "content": "开长会时常常呵欠不断。",
-      "questionNo": "9",
+      "id": 23261,
+      "content": "你觉得自己是个很倔强的人吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78958,
-          "questionId": 23269,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "10"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78959,
-          "questionId": 23269,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不是的",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "10"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23270,
-      "content": "说话时，有时会无意识地跑题。",
-      "questionNo": "10",
+      "id": 23261,
+      "content": "对于不喜欢但必须面对的人时，你会？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78960,
-          "questionId": 23270,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 假装热情",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "11"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78961,
-          "questionId": 23270,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": " 不冷不热，会不时地表现出不耐烦",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "11"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23271,
-      "content": "在等人时，常感到时间长得难熬。",
-      "questionNo": "11",
+      "id": 23261,
+      "content": "你觉得自己特善于和陌生人打交道吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78962,
-          "questionId": 23271,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "12"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78963,
-          "questionId": 23271,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": " 不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "12"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23272,
-      "content": "对刚看完的书（笔记），常需重新阅读好几遍。",
-      "questionNo": "12",
+      "id": 23261,
+      "content": "每到一个新地方，你都会买些纪念品吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78964,
-          "questionId": 23272,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "13"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78965,
-          "questionId": 23272,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "13"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23273,
-      "content": "读书不能持续两小时以上。",
-      "questionNo": "13",
+      "id": 23261,
+      "content": "对于恋爱以外的人对你表达爱意，你会？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78966,
-          "questionId": 23273,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": " 暗地里交往，心存幻想，也许这会是一段美丽爱情的开始",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "14"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78967,
-          "questionId": 23273,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": " 婉言谢绝",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "14"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23274,
-      "content": "一件事做得时间太长后，就会急躁地希望早点结束。",
-      "questionNo": "14",
+      "id": 23261,
+      "content": "你是个特别喜欢刨根问底的人吗？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78968,
-          "questionId": 23274,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "是的",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "15"
+          "jumpAnsId": "2"
         },
         {
-          "id": 78969,
-          "questionId": 23274,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": "不是",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": "15"
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "id": 23275,
-      "content": "工作（学习）时，对周围人的说话声听得很清楚。",
-      "questionNo": "15",
+      "id": 23261,
+      "content": "当你走错地方时，你会？",
+      "questionNo": "1",
       "thirdPartyQuestionId": 0,
       "image": "",
       "audio": "",
       "testAnswerDtos": [
         {
-          "id": 78970,
-          "questionId": 23275,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "1",
-          "content": "是",
+          "content": "赶紧退出",
           "contentDesc": "",
           "image": "",
           "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": ""
+          "jumpAnsId": "2"
         },
         {
-          "id": 78971,
-          "questionId": 23275,
+          "id": 78942,
+          "questionId": 23261,
           "answerNo": "2",
-          "content": "否",
+          "content": " 装作若无其事，仔细观察",
           "contentDesc": "",
           "image": "",
-          "score": 0,
+          "score": 1,
           "maxScore": null,
           "thirdPartyAnswerId": 0,
-          "jumpAnsId": ""
+          "jumpAnsId": "2"
         }
       ]
     }
   ],
   "testResultId": 26403930,
   "hasUnused": true,
-  "createTime": "Dec 26, 2018 2:33:21 PM",
   "webQuestionUrl": "",
   "maxCoupon": null,
   "inCode": "",

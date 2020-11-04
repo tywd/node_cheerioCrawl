@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: shichuyu
  * @Date: 2020-11-02 19:36:39
- * @LastEditTime: 2020-11-04 14:23:07
+ * @LastEditTime: 2020-11-04 15:26:49
  * @LastEditors: shichuyu
  */
 // 奇趣测试网
@@ -23,16 +23,24 @@ http.get(url, (res) => {
   });
   res.on('end', () => {
     const $ = cheerio.load(html, { decodeEntities: false });
+    function getCaption(obj) {
+      var index = obj.indexOf("，");
+      obj = obj.substring(index + 1, obj.length);
+      // console.log(obj);
+      return obj;
+    }
     let arr_name = [], arr_answer = []; var answer_item = [];
     let _contents = $('.q_info');
     for (item in _contents) {
       if (item < 10) {
-        let qustion_content = $(_contents[item]).find('.q_info_t').html().split('，')[1]
+        let qustion_content = getCaption($(_contents[item]).find('.q_info_t').html())
         arr_name.push({
-          "seqId": 44,
+          "id": 23261,
           "content": qustion_content,
-          "questionNo": 1,
-          "createTime": "2020-08-05 11:16:30",
+          "questionNo": "1",
+          "thirdPartyQuestionId": 0,
+          "image": "",
+          "audio": "",
           "testAnswerDtos": []
         })
         var answer = $(_contents[item]).find('ul').find('li');
@@ -47,11 +55,16 @@ http.get(url, (res) => {
         if (item3 < answer_item[item2].length) {
           let answer_str = answer_item[item2][item3].innerText
           answer3.push({
-            "seqId": 175,
-            "questionId": 44,
+            "id": 78942,
+            "questionId": 23261,
             "answerNo": JSON.stringify(parseInt(item3) + 1),
             "content": answer_str,
-            "contentDesc": ""
+            "contentDesc": "",
+            "image": "",
+            "score": 1,
+            "maxScore": null,
+            "thirdPartyAnswerId": 0,
+            "jumpAnsId": "2"
           })
         }
       }
@@ -70,10 +83,17 @@ http.get(url, (res) => {
       "commentNum": 0,
       "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
       "createTime": "2020-08-05 11:16:30",
-      "questions": arr_name
+      "questions": arr_name,
+      "testResultId": 26403930,
+      "hasUnused": true,
+      "createTime": "Dec 26, 2018 2:33:21 PM",
+      "webQuestionUrl": "",
+      "maxCoupon": null,
+      "inCode": "",
+      "isSupportUnscramble": 0
     }
     // console.log(arr_name)
-    // copy(q_data)
+    copy(q_data)
     writeFile(JSON.stringify(arr_name))
   });
 }).on('error', (e) => {

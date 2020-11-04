@@ -1,0 +1,1181 @@
+{
+  "seqId": 0,
+  "name": "抑郁自评量表（SDS）",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
+  "commentNum": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "Dec 26, 2018 2:33:21 PM",
+  "questions": [
+    {
+      "id": 23261,
+      "content": "我觉得闷闷不乐，情绪低沉",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我觉得一天之中早晨最好",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我要哭或想哭",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我夜间睡眠不好",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我吃饭象平时一样多",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我的性功能正常",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我感到体重减轻",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我为便秘烦恼",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我的心跳比平时快",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我无故感到疲劳",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我的头脑象往常一样清楚",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我做事情象平时一样不感到困难",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我坐卧不安，难以保持平静",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我对未来感到有希望",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我比平时更容易激怒",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我觉得决定什么事很容易",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我感到自已是有用的和不可缺少的人",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我的生活很有意义",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "假若我死了别人会过得更好",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "我仍旧喜爱自己平时喜爱的东西",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "从无",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有时",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "经常",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "持续",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    }
+  ],
+  "testResultId": 26403930,
+  "hasUnused": true,
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
+}

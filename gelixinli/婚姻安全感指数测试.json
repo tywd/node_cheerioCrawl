@@ -1,0 +1,481 @@
+{
+  "seqId": 0,
+  "name": "婚姻安全感指数测试",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
+  "commentNum": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "Dec 26, 2018 2:33:21 PM",
+  "questions": [
+    {
+      "id": 23261,
+      "content": "你是不是一个比较独立的人？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "不是",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "一般",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你能召集起来一起玩儿的朋友多吗？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "一般",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "挺多",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "很少",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你是一个平时也会参加体育锻炼的人吗？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "是的，比较好动",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "会去，但谈不上热爱",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "完全不喜欢体育活动",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "在你的意识里面，你认为你要的幸福是？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "自己努力创造的",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "别人给予的",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "双方创造的",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "下面几项体育活动的比赛，你相对比较喜欢看？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "篮球",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "跳水",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "羽毛球",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你认为下面哪种活动，最适合看出两人的分歧？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "旅游",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "逛街",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "吃饭",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "从外表看来，你更喜欢男生的气质属于哪一种？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "健康阳光型",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "文质彬彬型",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "冷酷不语型",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "如果你是男的，你会喜欢什么类型的妻子？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "传统的贤妻",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "有个性的辣妻",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "受宠爱的娇妻",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你爱看什么样的报纸书刊？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "娱乐八卦类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "小说文学类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "时事新闻类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "与甩了你的前任在街上遇见，对方先打招呼，最可能发生的事情是？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "你什么也不说，转身就走",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "你闲问一下，然后走开",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "装没看到，擦肩而过",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    }
+  ],
+  "testResultId": 26403930,
+  "hasUnused": true,
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
+}

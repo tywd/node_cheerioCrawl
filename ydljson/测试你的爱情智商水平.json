@@ -1,595 +1,946 @@
 {
-  "seqId": 0,
+  "id": 2157,
+  "testCatId": 9,
   "name": "测试你的爱情智商水平",
-  "tipsTitle": "",
-  "price": "0",
-  "originalPrice": "0",
-  "visitNum": 0,
-  "elapsedTime": 0,
-  "questionNumber": 0,
+  "tipsTitle": "你的爱情IQ有几分？",
+  "shareImage": "https://img.ydlcdn.com/file/2019/05/09/57wv7vckaj5ncj4l.jpg",
+  "price": 0,
+  "originalPrice": 9.9,
+  "visitNum": 23509,
+  "testSource": 1,
+  "reportPages": 3,
+  "elapsedTime": 7,
+  "questionNumber": 20,
   "commentNum": 0,
-  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
-  "createTime": "2020-08-05 11:16:30",
+  "desc": "<p>爱情智商反映了一个人解决爱情问题的能力水平。爱情不分贵贱，却能体现自己的智慧高低。每个人对爱情有着不同的理解，但爱情IQ高的人往往能够收获到更幸福的爱情。你的爱情IQ有多高？</p>",
+  "reportId": 0,
   "questions": [
     {
-      "seqId": 44,
+      "id": 31687,
       "content": "你是一个没有个人边界感的人吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
+          "id": 99298,
+          "questionId": 31687,
+          "answerNo": "A",
           "content": "是的",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
+          "id": 99299,
+          "questionId": 31687,
+          "answerNo": "B",
           "content": "不是",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
+          "id": 99300,
+          "questionId": 31687,
+          "answerNo": "C",
           "content": "不清楚",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31688,
       "content": "你更喜欢哪种旅行方式？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "2",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99301,
+          "questionId": 31688,
+          "answerNo": "A",
+          "content": "一个人自由行",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99302,
+          "questionId": 31688,
+          "answerNo": "B",
+          "content": "和小伙伴一起自由行",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99303,
+          "questionId": 31688,
+          "answerNo": "C",
+          "content": "跟着旅游团",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31689,
       "content": "如果出现了一个比现任更优秀的人，你会放弃现任而去追求TA吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "3",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99304,
+          "questionId": 31689,
+          "answerNo": "A",
+          "content": "会",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "5"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99305,
+          "questionId": 31689,
+          "answerNo": "B",
+          "content": "不会",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99306,
+          "questionId": 31689,
+          "answerNo": "C",
+          "content": "不确定",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31690,
       "content": "如果你被一个你不喜欢的异性邀请了，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "4",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99307,
+          "questionId": 31690,
+          "answerNo": "A",
+          "content": "接受邀请",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "5"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99308,
+          "questionId": 31690,
+          "answerNo": "B",
+          "content": "不作回应",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99309,
+          "questionId": 31690,
+          "answerNo": "C",
+          "content": "拒绝邀请",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31691,
       "content": "如果一个人向你表白了，但你对TA没有任何兴趣，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "5",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99310,
+          "questionId": 31691,
+          "answerNo": "A",
+          "content": "勉强自己接受",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99311,
+          "questionId": 31691,
+          "answerNo": "B",
+          "content": "当场拒绝表白",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99312,
+          "questionId": 31691,
+          "answerNo": "C",
+          "content": "没有任何回应",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "10"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31692,
       "content": "休息时，你更喜欢一个人呆着还是与朋友一起聚会？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "6",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99313,
+          "questionId": 31692,
+          "answerNo": "A",
+          "content": "一个人呆着",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99314,
+          "questionId": 31692,
+          "answerNo": "B",
+          "content": "与朋友一起聚会",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99315,
+          "questionId": 31692,
+          "answerNo": "C",
+          "content": "无所谓",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31693,
       "content": "如果你和TA发生了矛盾，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "7",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99316,
+          "questionId": 31693,
+          "answerNo": "A",
+          "content": "先退一步妥协，听TA的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99317,
+          "questionId": 31693,
+          "answerNo": "B",
+          "content": "坚持自己的看法，让TA听你的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99318,
+          "questionId": 31693,
+          "answerNo": "C",
+          "content": "表明自己的立场，让TA决定",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31694,
       "content": "如果你看到TA挽着新任的手迎面向你走来，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "8",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99319,
+          "questionId": 31694,
+          "answerNo": "A",
+          "content": "祝福TA，为TA开心",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99320,
+          "questionId": 31694,
+          "answerNo": "B",
+          "content": "当做陌生人无视TA",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "10"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99321,
+          "questionId": 31694,
+          "answerNo": "C",
+          "content": "对TA们进行冷嘲热讽",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31695,
       "content": "如果TA一直用很忙作借口不睬你，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "9",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99322,
+          "questionId": 31695,
+          "answerNo": "A",
+          "content": "死缠着TA直到TA理你",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99323,
+          "questionId": 31695,
+          "answerNo": "B",
+          "content": "再缠一段时间看看，说不定有转机",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "13"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99324,
+          "questionId": 31695,
+          "answerNo": "C",
+          "content": "不再纠缠，就此放手",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "12"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31696,
       "content": "如果TA一度离开你，现在又想重拾旧爱，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "10",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99325,
+          "questionId": 31696,
+          "answerNo": "A",
+          "content": "再给TA一次机会",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99326,
+          "questionId": 31696,
+          "answerNo": "B",
+          "content": "给TA考验，验证TA的决心",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "14"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99327,
+          "questionId": 31696,
+          "answerNo": "C",
+          "content": "不会给TA机会",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "15"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31697,
       "content": "当听到冷笑话的时候，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "11",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99328,
+          "questionId": 31697,
+          "answerNo": "A",
+          "content": "不管好不好笑都会笑笑",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "14"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99329,
+          "questionId": 31697,
+          "answerNo": "B",
+          "content": "不好笑就不笑",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "12"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99330,
+          "questionId": 31697,
+          "answerNo": "C",
+          "content": "听不出笑点来",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "13"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31698,
       "content": "你觉得下面哪里工作更适合你？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "12",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99331,
+          "questionId": 31698,
+          "answerNo": "A",
+          "content": "文职",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "13"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99332,
+          "questionId": 31698,
+          "answerNo": "B",
+          "content": "业务",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "15"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99333,
+          "questionId": 31698,
+          "answerNo": "C",
+          "content": "管理",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "14"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31699,
       "content": "你比较喜欢开什么餐馆？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "13",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99334,
+          "questionId": 31699,
+          "answerNo": "A",
+          "content": "西餐厅",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "14"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99335,
+          "questionId": 31699,
+          "answerNo": "B",
+          "content": "私房菜",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "16"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99336,
+          "questionId": 31699,
+          "answerNo": "C",
+          "content": "小吃店",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "18"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31700,
       "content": "你的手机里有游戏啊？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "14",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99337,
+          "questionId": 31700,
+          "answerNo": "A",
+          "content": "有好几个",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "15"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99338,
+          "questionId": 31700,
+          "answerNo": "B",
+          "content": "没有",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "16"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99339,
+          "questionId": 31700,
+          "answerNo": "C",
+          "content": "有一个",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "17"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31701,
       "content": "你对生活在古堡里感兴趣吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "15",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99340,
+          "questionId": 31701,
+          "answerNo": "A",
+          "content": "不感兴趣",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "17"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99341,
+          "questionId": 31701,
+          "answerNo": "B",
+          "content": "一般",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "16"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99342,
+          "questionId": 31701,
+          "answerNo": "C",
+          "content": "很感兴趣",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "16"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31702,
       "content": "你看到五颜六色的蛋糕，就很有食欲吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "16",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
-        },
-        {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
+          "id": 99343,
+          "questionId": 31702,
+          "answerNo": "A",
           "content": "不是",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "17"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99344,
+          "questionId": 31702,
+          "answerNo": "B",
+          "content": "一般",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "18"
+        },
+        {
+          "id": 99345,
+          "questionId": 31702,
+          "answerNo": "C",
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "19"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31703,
       "content": "你对跳伞感兴趣吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "17",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99346,
+          "questionId": 31703,
+          "answerNo": "A",
+          "content": "一般",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "20"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99347,
+          "questionId": 31703,
+          "answerNo": "B",
+          "content": "不感兴趣",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "19"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99348,
+          "questionId": 31703,
+          "answerNo": "C",
+          "content": "很感兴趣",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "18"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31704,
       "content": "你最喜欢下面哪种颜色的是？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "18",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99349,
+          "questionId": 31704,
+          "answerNo": "A",
+          "content": "褐色",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "19"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99350,
+          "questionId": 31704,
+          "answerNo": "B",
+          "content": "酱色",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "19"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99351,
+          "questionId": 31704,
+          "answerNo": "C",
+          "content": "白色",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "20"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31705,
       "content": "你喜欢和小动物一起合照吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "19",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99352,
+          "questionId": 31705,
+          "answerNo": "A",
+          "content": "不喜欢",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "20"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99353,
+          "questionId": 31705,
+          "answerNo": "B",
+          "content": "一般",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "20"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99354,
+          "questionId": 31705,
+          "answerNo": "C",
+          "content": "很喜欢",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "A"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 31706,
       "content": "与人初次会面，经过一番交谈，你能对Ta的举止谈吐、知识能力等方面",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "20",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "是的",
-          "contentDesc": ""
+          "id": 99355,
+          "questionId": 31706,
+          "answerNo": "A",
+          "content": "我感觉不能",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "B"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "不是",
-          "contentDesc": ""
+          "id": 99356,
+          "questionId": 31706,
+          "answerNo": "B",
+          "content": "很难说",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "C"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不清楚",
-          "contentDesc": ""
+          "id": 99357,
+          "questionId": 31706,
+          "answerNo": "C",
+          "content": "我想可以",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "D"
         }
       ]
     }
-  ]
+  ],
+  "testResultId": 26408017,
+  "hasUnused": true,
+  "createTime": "May 9, 2019 3:58:34 PM",
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
 }

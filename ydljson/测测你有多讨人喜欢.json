@@ -1,276 +1,428 @@
 {
-  "seqId": 0,
+  "id": 1270,
+  "testCatId": 3,
   "name": "测测你有多讨人喜欢",
-  "tipsTitle": "",
-  "price": "0",
-  "originalPrice": "0",
-  "visitNum": 0,
-  "elapsedTime": 0,
-  "questionNumber": 0,
+  "tipsTitle": "在别人眼中你有多讨喜？",
+  "shareImage": "https://img.ydlcdn.com/file/2020/02/26/nvrov20o00pna7w0.jpg",
+  "price": 0,
+  "originalPrice": 9.9,
+  "visitNum": 304188,
+  "testSource": 1,
+  "reportPages": 3,
+  "elapsedTime": 3,
+  "questionNumber": 9,
   "commentNum": 0,
-  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
-  "createTime": "2020-08-05 11:16:30",
+  "desc": "<p>性格决定命运，你的性格是怎样的呢？有的人的性格天生温和，容易亲近，讨人喜欢。而有的人却不是。那么你的性格又能不能讨人喜欢呢？快来跟着壹点灵小编一起来测测你的性格有多讨喜？</p>",
+  "reportId": 0,
   "questions": [
     {
-      "seqId": 44,
+      "id": 20667,
       "content": "你找对象的时候更倾向于：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71853,
+          "questionId": 20667,
           "answerNo": "1",
           "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71854,
+          "questionId": 20667,
           "answerNo": "2",
           "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71855,
+          "questionId": 20667,
           "answerNo": "3",
           "content": "不确定",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20668,
       "content": "你曾经有梦想成为明星吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "2",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71856,
+          "questionId": 20668,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "有",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71857,
+          "questionId": 20668,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
-        },
-        {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "没有",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20669,
       "content": "你觉得自己人缘还不错？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "3",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71858,
+          "questionId": 20669,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71859,
+          "questionId": 20669,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "content": "不是",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "5"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71860,
+          "questionId": 20669,
           "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "还好",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20670,
       "content": "你的内心总是很积极/正面？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "4",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71861,
+          "questionId": 20670,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71862,
+          "questionId": 20670,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "content": "不是",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71863,
+          "questionId": 20670,
           "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "还好",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "5"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20671,
       "content": "闲暇时间，你喜欢看小说或肥皂剧打发时间吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "5",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71864,
+          "questionId": 20671,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71865,
+          "questionId": 20671,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "content": "不是",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71866,
+          "questionId": 20671,
           "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "还好",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20672,
       "content": "跟别人说话的时候，你会看着对方的眼睛吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "6",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71867,
+          "questionId": 20672,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "会的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71868,
+          "questionId": 20672,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "content": "不会",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71869,
+          "questionId": 20672,
           "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "看情况",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "A"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20673,
       "content": "你觉得善意的谎言是有必要的吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "7",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71870,
+          "questionId": 20673,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71871,
+          "questionId": 20673,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "content": "不是",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71872,
+          "questionId": 20673,
           "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "看情况",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20674,
       "content": "你喜欢听或讲八卦吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "8",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71873,
+          "questionId": 20674,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "是的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71874,
+          "questionId": 20674,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "content": "不是",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "A"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71875,
+          "questionId": 20674,
           "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "一般",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "B"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 20675,
       "content": "如果你获得了某个奖项，大家都替你高兴，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "9",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71876,
+          "questionId": 20675,
           "answerNo": "1",
-          "content": "凭感觉，感觉对了就对了",
-          "contentDesc": ""
+          "content": "很感激，向大家表示谢意",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "C"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71877,
+          "questionId": 20675,
           "answerNo": "2",
-          "content": "考虑某些条件，比如外貌或经济条件",
-          "contentDesc": ""
+          "content": "默默收下祝福，不会说太多",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "D"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 71878,
+          "questionId": 20675,
           "answerNo": "3",
-          "content": "不确定",
-          "contentDesc": ""
+          "content": "请朋友们吃饭，大家开心开心",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "A"
         }
       ]
     }
-  ]
+  ],
+  "testResultId": 26404502,
+  "hasUnused": true,
+  "createTime": "Oct 29, 2018 2:29:04 PM",
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
 }

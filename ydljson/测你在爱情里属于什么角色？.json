@@ -1,345 +1,536 @@
 {
-  "seqId": 0,
+  "id": 2178,
+  "testCatId": 8,
   "name": "测你在爱情里属于什么角色？",
-  "tipsTitle": "",
-  "price": "0",
-  "originalPrice": "0",
-  "visitNum": 0,
-  "elapsedTime": 0,
-  "questionNumber": 0,
+  "tipsTitle": "你是小王子，还是玫瑰或狐狸？",
+  "shareImage": "https://img.ydlcdn.com/file/2019/05/13/bplzccmc7fsoorpg.jpg",
+  "price": 0,
+  "originalPrice": 9.9,
+  "visitNum": 17083,
+  "testSource": 1,
+  "reportPages": 3,
+  "elapsedTime": 5,
+  "questionNumber": 15,
   "commentNum": 0,
-  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
-  "createTime": "2020-08-05 11:16:30",
+  "desc": "<p>有些时候，不是不够爱，而是将爱传递出去的方式不对。你是怎么样表达你的爱的？在爱里，你是爱的掠夺者还是守护神？或者是其他角色？</p>",
+  "reportId": 0,
   "questions": [
     {
-      "seqId": 44,
+      "id": 32065,
       "content": "你觉得自己属于以下哪一种：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
+          "id": 100196,
+          "questionId": 32065,
+          "answerNo": "A",
           "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
+          "id": 100197,
+          "questionId": 32065,
+          "answerNo": "B",
           "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32066,
       "content": "你更喜欢：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "2",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100198,
+          "questionId": 32066,
+          "answerNo": "A",
+          "content": "黄色香蕉蛋糕",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100199,
+          "questionId": 32066,
+          "answerNo": "B",
+          "content": "白色酸奶蛋糕",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32067,
       "content": "在窗前的绿色植物旁边摆一把椅子，你要：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "3",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100200,
+          "questionId": 32067,
+          "answerNo": "A",
+          "content": "橙色沙发椅",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "5"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100201,
+          "questionId": 32067,
+          "answerNo": "B",
+          "content": "藤制摇椅",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32068,
       "content": "你希望拥有：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "4",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100202,
+          "questionId": 32068,
+          "answerNo": "A",
+          "content": "平坦的爱情",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100203,
+          "questionId": 32068,
+          "answerNo": "B",
+          "content": "起伏而戏剧化的爱情",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32069,
       "content": "不喜欢小动物，某天回家发现一刚出生的小猫，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "5",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100204,
+          "questionId": 32069,
+          "answerNo": "A",
+          "content": "毫不犹豫的扔出去",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100205,
+          "questionId": 32069,
+          "answerNo": "B",
+          "content": "还是养几天再说吧",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32070,
       "content": "曾经甩了你的爱人，落魄了又回头哀求你，你打算：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "6",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100206,
+          "questionId": 32070,
+          "answerNo": "A",
+          "content": "没有什么好说的，一脚踢出去",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100207,
+          "questionId": 32070,
+          "answerNo": "B",
+          "content": "可能会不计前嫌再次接纳吧",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32071,
       "content": "川端康成说：爱过一次的责任是无法消除的。你觉得：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "7",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100208,
+          "questionId": 32071,
+          "answerNo": "A",
+          "content": "估计……是他发烧时说的吧",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100209,
+          "questionId": 32071,
+          "answerNo": "B",
+          "content": "有一定的道理，让人感动",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "10"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32072,
       "content": "已经使用过一次的节日装饰品，你会：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "8",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100210,
+          "questionId": 32072,
+          "answerNo": "A",
+          "content": "随手扯下来扔掉",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100211,
+          "questionId": 32072,
+          "answerNo": "B",
+          "content": "小心取下来保留",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32073,
       "content": "买了新橡皮后，发现书桌上还剩下小半块旧的：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "9",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100212,
+          "questionId": 32073,
+          "answerNo": "A",
+          "content": "留在一边用完吧",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "10"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100213,
+          "questionId": 32073,
+          "answerNo": "B",
+          "content": "扔掉，换新的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32074,
       "content": "你认为，真正刻骨铭心的爱情是：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "10",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100214,
+          "questionId": 32074,
+          "answerNo": "A",
+          "content": "无私的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "12"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100215,
+          "questionId": 32074,
+          "answerNo": "B",
+          "content": "残忍的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "14"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32075,
       "content": "给痴情的人一个形容词，应该是：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "11",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100216,
+          "questionId": 32075,
+          "answerNo": "A",
+          "content": "可敬，珍贵的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "13"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100217,
+          "questionId": 32075,
+          "answerNo": "B",
+          "content": "可怕，狠毒的",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "12"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32076,
       "content": "母蜘蛛必须吃掉自己的丈夫才能生下两人爱的结晶，你感觉：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "12",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100218,
+          "questionId": 32076,
+          "answerNo": "A",
+          "content": "很可怕很恶心，一般来说，我不喜欢这些虫子",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "14"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100219,
+          "questionId": 32076,
+          "answerNo": "B",
+          "content": "是自然法则，不会感觉不舒服",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "13"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32077,
       "content": "在你心目中，动物和皮草之间的关系是：",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "13",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100220,
+          "questionId": 32077,
+          "answerNo": "A",
+          "content": "我喜欢动物，我也喜欢皮草",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "15"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100221,
+          "questionId": 32077,
+          "answerNo": "B",
+          "content": "我喜欢动物，因此我坚决反对皮草",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "A"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32078,
       "content": "你喜欢在房间里摆放什么植物？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "14",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100222,
+          "questionId": 32078,
+          "answerNo": "A",
+          "content": "盆栽的绿色植物",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "C"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100223,
+          "questionId": 32078,
+          "answerNo": "B",
+          "content": "鲜艳的截枝瓶花",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "15"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 32079,
       "content": "喜欢上路边一株根系很深的小花，你会怎么做？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "15",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "1",
-          "content": "宇宙中一粒尘埃",
-          "contentDesc": ""
+          "id": 100224,
+          "questionId": 32079,
+          "answerNo": "A",
+          "content": "用尽全力拔下来带走",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "D"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
-          "answerNo": "2",
-          "content": "我就是我，不是别的",
-          "contentDesc": ""
+          "id": 100225,
+          "questionId": 32079,
+          "answerNo": "B",
+          "content": "把瓶子里的矿泉水浇在它的根上",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "B"
         }
       ]
     }
-  ]
+  ],
+  "testResultId": 26399057,
+  "hasUnused": true,
+  "createTime": "May 13, 2019 2:38:26 PM",
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
 }

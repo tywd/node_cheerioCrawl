@@ -1,191 +1,298 @@
 {
-  "seqId": 0,
+  "id": 2731,
+  "testCatId": 6,
   "name": "夫妻性格相容性测试",
-  "tipsTitle": "",
-  "price": "0",
-  "originalPrice": "0",
-  "visitNum": 0,
-  "elapsedTime": 0,
-  "questionNumber": 0,
+  "tipsTitle": "OSLON婚姻质量问卷的一个维度",
+  "shareImage": "https://img.ydlcdn.com/file/2020/08/14/zzphu193gquzrnxu.png",
+  "price": 0,
+  "originalPrice": 0,
+  "visitNum": 122511,
+  "testSource": 1,
+  "reportPages": 3,
+  "elapsedTime": 3,
+  "questionNumber": 8,
   "commentNum": 0,
-  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
-  "createTime": "2020-08-05 11:16:30",
+  "desc": "<p>夫妻间的性格不一定需要互补，是需要相容即可，本测试测试你对配偶行为方式的满意程度。</p>",
+  "reportId": 0,
   "questions": [
     {
-      "seqId": 44,
+      "id": 53023,
       "content": "我的配偶过于挑剔或者常常持有否定意见",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209666,
+          "questionId": 53023,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209674,
+          "questionId": 53023,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 53024,
       "content": "有时，我对配偶的脾气很在意",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "2",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209667,
+          "questionId": 53024,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209675,
+          "questionId": 53024,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 53025,
       "content": "有时，我对配偶显得不愉快和孤僻感到担心",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "3",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209668,
+          "questionId": 53025,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209676,
+          "questionId": 53025,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 53026,
       "content": "有时，我的配偶不依赖我，总是人云亦云",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "4",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209669,
+          "questionId": 53026,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209677,
+          "questionId": 53026,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 53027,
       "content": "当我与别人共处时，有时我为配偶的行为感到不安",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "5",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209670,
+          "questionId": 53027,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209678,
+          "questionId": 53027,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 53028,
       "content": "有时，我的配偶太固执",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "6",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209671,
+          "questionId": 53028,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209679,
+          "questionId": 53028,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 53029,
       "content": "配偶经常拖拖拉拉，是我很烦恼",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "7",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209672,
+          "questionId": 53029,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209680,
+          "questionId": 53029,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 53030,
       "content": "对于配偶的喜怒无常，有时我感到束手无策",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "8",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209673,
+          "questionId": 53030,
           "answerNo": "1",
-          "content": "是",
-          "contentDesc": ""
+          "content": "A.是",
+          "contentDesc": "",
+          "image": "",
+          "score": 2,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 209681,
+          "questionId": 53030,
           "answerNo": "2",
-          "content": "否",
-          "contentDesc": ""
+          "content": "B.否",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": ""
         }
       ]
     }
-  ]
+  ],
+  "testResultId": 26404218,
+  "hasUnused": true,
+  "createTime": "Aug 14, 2020 3:14:23 PM",
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
 }

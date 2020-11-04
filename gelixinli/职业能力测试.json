@@ -1,0 +1,1095 @@
+{
+  "seqId": 0,
+  "name": "职业能力测试",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
+  "commentNum": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "Dec 26, 2018 2:33:21 PM",
+  "questions": [
+    {
+      "id": 23261,
+      "content": "你更喜欢吃那种水果？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "草莓",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "苹果",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "西瓜",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "菠萝",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "橘子",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你平时休闲经常去的地方",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "郊外",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "电影院",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "公园",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "商场",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "酒吧",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "6",
+          "content": "练歌房",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你认为容易吸引你的人是？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "有才气的人",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "依赖你的人",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "优雅的人",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "善良的人",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "性情豪放的人",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "如果你可以成为一种动物，你希望自己是哪种？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "猫",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "马",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "大象",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "猴子",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "狗",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "6",
+          "content": "狮子",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "天气很热，你更愿意选择什么方式解暑？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "游泳",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "喝冷饮",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "开空调",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "如果必须与一个你讨厌的动物或昆虫在一起生活，你能容忍哪一个？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "蛇",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "猪",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "老鼠",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "苍蝇",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你喜欢看哪类电影、电视剧？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "悬疑推理类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "童话神话类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "自然科学类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "伦理道德类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "战争枪战类",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "以下哪个是你身边必带的物品？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "打火机",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "口红",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "记事本",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "纸巾",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "手机",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你出行时喜欢坐什么交通工具？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "火车",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "自行车",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "汽车",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "飞机",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "步行",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "以下颜色你更喜欢哪种？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "紫",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "黑",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "蓝",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "白",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "黄",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "6",
+          "content": "红",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "下列运动中挑选一个你最喜欢的（不一定擅长）？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "瑜珈",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "自行车",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "乒乓球",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "拳击",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "足球",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "6",
+          "content": "蹦极",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "如果你拥有一座别墅，你认为它应当建立在哪里？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "湖边",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "草原",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "海边",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "森林",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "城中区",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你更喜欢以下哪种天气现象？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "雪",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "风",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "雨",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "雾",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "雷电",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你希望自己的窗口在一座30层大楼的第几层？",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "七层",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "一层",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "二十三层",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "十八层",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "三十层",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    },
+    {
+      "id": 23261,
+      "content": "你认为自己更喜欢在以下哪一个城市中生活",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
+      "testAnswerDtos": [
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "1",
+          "content": "丽江",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "2",
+          "content": "拉萨",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "3",
+          "content": "昆明",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "4",
+          "content": "西安",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "5",
+          "content": "杭州",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        },
+        {
+          "id": 78942,
+          "questionId": 23261,
+          "answerNo": "6",
+          "content": "北京",
+          "contentDesc": "",
+          "image": "",
+          "score": 1,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
+        }
+      ]
+    }
+  ],
+  "testResultId": 26403930,
+  "hasUnused": true,
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
+}

@@ -1,301 +1,468 @@
 {
-  "seqId": 0,
+  "id": 1161,
+  "testCatId": 9,
   "name": "测测你的心理承受能力",
-  "tipsTitle": "",
-  "price": "0",
-  "originalPrice": "0",
-  "visitNum": 0,
-  "elapsedTime": 0,
-  "questionNumber": 0,
+  "tipsTitle": "你的心理承受能力有多强？",
+  "shareImage": "https://img.ydlcdn.com/file/2020/02/26/e3d2t7cy1jcmu7r5.jpg",
+  "price": 0,
+  "originalPrice": 19.9,
+  "visitNum": 247719,
+  "testSource": 1,
+  "reportPages": 3,
+  "elapsedTime": 5,
+  "questionNumber": 13,
   "commentNum": 0,
-  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
-  "createTime": "2020-08-05 11:16:30",
+  "desc": "<p>你是不是一直都在父母建造的温室里面生活，大事小事都不用操心，父母都会为你打点好一切？如果这样久而久之，你的<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>承受能力可想而知。一个<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>承受力强的人，<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>强大比任何东西都有用，往往活的比大多数人要轻松；反之，一个<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>承受能力差的人，一件小事都可以把你击倒，容易被社会和群体抛弃。那么你呢？快来跟着壹点灵小编一起来测测你的<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>承受能力，看看你的<a href=\"https://m.ydl.com/\" target=\"_blank\">心理</a>承受能力有多强？</p>",
+  "reportId": 0,
   "questions": [
     {
-      "seqId": 44,
-      "content": "遇到美女帅哥你会自发地做出吞口水的举动？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19289,
+      "content": "遇到美女帅哥你会自发地做出吞口水的举动？  ",
+      "questionNo": "1",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66346,
+          "questionId": 19289,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "2"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66347,
+          "questionId": 19289,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你有没有用摘花瓣的形式来决定一件事情的对错？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19290,
+      "content": "你有没有用摘花瓣的形式来决定一件事情的对错？  ",
+      "questionNo": "2",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66348,
+          "questionId": 19290,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66349,
+          "questionId": 19290,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "3"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你曾经在别人面前对自己进行理智的评价吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19291,
+      "content": "你曾经在别人面前对自己进行理智的评价吗？  ",
+      "questionNo": "3",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66350,
+          "questionId": 19291,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "4"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66351,
+          "questionId": 19291,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "5"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你曾经有感受过窒息的感觉吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19292,
+      "content": "你曾经有感受过窒息的感觉吗？  ",
+      "questionNo": "4",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66352,
+          "questionId": 19292,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "5"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66353,
+          "questionId": 19292,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你会不会发海豚音（就是喉咙发出的尖叫声）？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19293,
+      "content": "你会不会发海豚音（就是喉咙发出的尖叫声）？  ",
+      "questionNo": "5",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66354,
+          "questionId": 19293,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "6"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66355,
+          "questionId": 19293,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你有没有想过要锻炼肌肉？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19294,
+      "content": "你有没有想过要锻炼肌肉？  ",
+      "questionNo": "6",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66356,
+          "questionId": 19294,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "7"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66357,
+          "questionId": 19294,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "西装类的正式衣服，你喜欢穿吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19295,
+      "content": "西装类的正式衣服，你喜欢穿吗？ ",
+      "questionNo": "7",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66358,
+          "questionId": 19295,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "8"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66359,
+          "questionId": 19295,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "有了手机这样先进的东西，你还会把自己的电话号码再备份在纸质媒介上吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19296,
+      "content": "有了手机这样先进的东西，你还会把自己的电话号码再备份在纸质媒介上吗？  ",
+      "questionNo": "8",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66360,
+          "questionId": 19296,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "10"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66361,
+          "questionId": 19296,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "9"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你喜欢发嗲吗或者是不经意间地发嗲？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19297,
+      "content": "你喜欢发嗲吗或者是不经意间地发嗲？  ",
+      "questionNo": "9",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66362,
+          "questionId": 19297,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "10"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66363,
+          "questionId": 19297,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "写东西的时候你有没有转笔的习惯？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19298,
+      "content": "写东西的时候你有没有转笔的习惯？  ",
+      "questionNo": "10",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66364,
+          "questionId": 19298,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "11"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66365,
+          "questionId": 19298,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "12"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你喜欢用圆珠笔还是钢笔？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19299,
+      "content": "你喜欢用圆珠笔还是钢笔？ ",
+      "questionNo": "11",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66366,
+          "questionId": 19299,
           "answerNo": "1",
-          "content": "YES",
-          "contentDesc": ""
+          "content": "圆珠笔",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "12"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66367,
+          "questionId": 19299,
           "answerNo": "2",
-          "content": "NO",
-          "contentDesc": ""
+          "content": "钢笔",
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "A"
         }
       ]
     },
     {
-      "seqId": 44,
+      "id": 19300,
       "content": "在不认识的人面前你是不是经常扭扭捏捏畏畏缩缩的？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "questionNo": "12",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66368,
+          "questionId": 19300,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "C"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66369,
+          "questionId": 19300,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "13"
         }
       ]
     },
     {
-      "seqId": 44,
-      "content": "你会用哭来发泄压抑的心情吗？",
-      "questionNo": 1,
-      "createTime": "2020-08-05 11:16:30",
+      "id": 19301,
+      "content": "你会用哭来发泄压抑的心情吗？  ",
+      "questionNo": "13",
+      "thirdPartyQuestionId": 0,
+      "image": "",
+      "audio": "",
       "testAnswerDtos": [
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66370,
+          "questionId": 19301,
           "answerNo": "1",
           "content": "YES",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "B"
         },
         {
-          "seqId": 175,
-          "questionId": 44,
+          "id": 66371,
+          "questionId": 19301,
           "answerNo": "2",
           "content": "NO",
-          "contentDesc": ""
+          "contentDesc": "",
+          "image": "",
+          "score": 0,
+          "maxScore": null,
+          "thirdPartyAnswerId": 0,
+          "jumpAnsId": "D"
         }
       ]
     }
-  ]
+  ],
+  "testResultId": 26404980,
+  "hasUnused": true,
+  "createTime": "Sep 30, 2018 2:29:53 PM",
+  "webQuestionUrl": "",
+  "maxCoupon": null,
+  "inCode": "",
+  "isSupportUnscramble": 0
 }
