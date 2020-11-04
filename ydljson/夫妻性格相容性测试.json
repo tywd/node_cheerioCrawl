@@ -1,0 +1,191 @@
+{
+  "seqId": 0,
+  "name": "夫妻性格相容性测试",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
+  "commentNum": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "2020-08-05 11:16:30",
+  "questions": [
+    {
+      "seqId": 44,
+      "content": "我的配偶过于挑剔或者常常持有否定意见",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "有时，我对配偶的脾气很在意",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "有时，我对配偶显得不愉快和孤僻感到担心",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "有时，我的配偶不依赖我，总是人云亦云",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "当我与别人共处时，有时我为配偶的行为感到不安",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "有时，我的配偶太固执",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "配偶经常拖拖拉拉，是我很烦恼",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "对于配偶的喜怒无常，有时我感到束手无策",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "是",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "否",
+          "contentDesc": ""
+        }
+      ]
+    }
+  ]
+}
