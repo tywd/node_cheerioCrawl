@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: shichuyu
  * @Date: 2020-11-02 19:36:39
- * @LastEditTime: 2020-11-04 15:26:49
+ * @LastEditTime: 2020-11-04 15:50:48
  * @LastEditors: shichuyu
  */
 // 奇趣测试网
@@ -32,7 +32,7 @@ http.get(url, (res) => {
     let arr_name = [], arr_answer = []; var answer_item = [];
     let _contents = $('.q_info');
     for (item in _contents) {
-      if (item < 10) {
+      if (item < _contents.length) {
         let qustion_content = getCaption($(_contents[item]).find('.q_info_t').html())
         arr_name.push({
           "id": 23261,
