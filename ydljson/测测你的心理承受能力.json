@@ -1,0 +1,301 @@
+{
+  "seqId": 0,
+  "name": "测测你的心理承受能力",
+  "tipsTitle": "",
+  "price": "0",
+  "originalPrice": "0",
+  "visitNum": 0,
+  "elapsedTime": 0,
+  "questionNumber": 0,
+  "commentNum": 0,
+  "desc": "<p>我们的生命中来来往往的人那么多，究竟谁才是过客，而谁又是命中注定令自己沦陷的那一个Mr.Right？你是否也因为匆匆的行者而迷乱了渴望的双眼？还是一如既往站在原地等待TA的出现？想知道哪种爱人你遇到就<span style=\"white-space: normal;\">该</span>抓住不放吗？快来测测哪种男人最适合你？</p>",
+  "createTime": "2020-08-05 11:16:30",
+  "questions": [
+    {
+      "seqId": 44,
+      "content": "遇到美女帅哥你会自发地做出吞口水的举动？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你有没有用摘花瓣的形式来决定一件事情的对错？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你曾经在别人面前对自己进行理智的评价吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你曾经有感受过窒息的感觉吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你会不会发海豚音（就是喉咙发出的尖叫声）？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你有没有想过要锻炼肌肉？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "西装类的正式衣服，你喜欢穿吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "有了手机这样先进的东西，你还会把自己的电话号码再备份在纸质媒介上吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你喜欢发嗲吗或者是不经意间地发嗲？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "写东西的时候你有没有转笔的习惯？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你喜欢用圆珠笔还是钢笔？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "在不认识的人面前你是不是经常扭扭捏捏畏畏缩缩的？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    },
+    {
+      "seqId": 44,
+      "content": "你会用哭来发泄压抑的心情吗？",
+      "questionNo": 1,
+      "createTime": "2020-08-05 11:16:30",
+      "testAnswerDtos": [
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "1",
+          "content": "YES",
+          "contentDesc": ""
+        },
+        {
+          "seqId": 175,
+          "questionId": 44,
+          "answerNo": "2",
+          "content": "NO",
+          "contentDesc": ""
+        }
+      ]
+    }
+  ]
+}

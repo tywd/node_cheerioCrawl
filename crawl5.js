@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: shichuyu
  * @Date: 2020-11-02 19:36:39
- * @LastEditTime: 2020-11-04 11:32:03
+ * @LastEditTime: 2020-11-04 14:14:53
  * @LastEditors: shichuyu
  */
 // 奇趣测试网
@@ -25,11 +25,12 @@ http.get(url, (res) => {
   res.on('end', () => {
     const $ = cheerio.load(html, { decodeEntities: false });
     var fx1 = document.getElementsByClassName('df')[0].childNodes;
+    var question_len = document.getElementsByClassName('df')[0].childNodes.length;
     var arrQuestion = [],  // 存放所有问题加答案选项
       arrAnswer = [],  // 存放最终答案数组
       arrContent = []; // 存放所有答案的父级元素
     for (item in fx1) {
-      if (item < 9) {
+      if (item < question_len) {
         var question_name = fx1[item].querySelectorAll('.mb25')[0].innerText.split('.')[1].replace(/(^\s*)|(\s*$)/g, "");
         // 先获得所有问题
         arrQuestion.push({
@@ -51,7 +52,7 @@ http.get(url, (res) => {
       var answer_item = [] // 存放单个答案选项
       // 遍历单个子级li下的所有选项
       for (item2 in arr2) {
-        if (item2 <= 2) {
+        if (item2 < arr2.length) {
           let answer_str = arr2[item2].innerText
           // 获得所有答案
           answer_item.push({

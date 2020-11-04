@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: shichuyu
  * @Date: 2020-11-02 19:36:39
- * @LastEditTime: 2020-11-03 20:30:24
+ * @LastEditTime: 2020-11-04 14:23:07
  * @LastEditors: shichuyu
  */
 // 奇趣测试网
@@ -44,7 +44,7 @@ http.get(url, (res) => {
     for (item2 in answer_item) {
       answer3 = []
       for (item3 in answer_item[item2]) {
-        if (item3 < 2) {
+        if (item3 < answer_item[item2].length) {
           let answer_str = answer_item[item2][item3].innerText
           answer3.push({
             "seqId": 175,
