@@ -34,11 +34,11 @@ const readFilesInDirectory = (dir) => {
             data.push(name.replace('.json', ''))
         }
     });
+
     data.forEach((e) => {
         const statsData = fse.readJsonSync(dir + '/' + e + '.json')
         json[e] = statsData
     })
-    // console.log('json',json)
 
     return json
 }
@@ -64,4 +64,5 @@ const readDirectoryFile = (directoryData) => {
 // 以龙华山咀头店为例
 const directoryPath = path.resolve(__dirname, '../data');
 const directoryData = readDirectory(directoryPath)
+console.log('directoryData: ', directoryData);
 readDirectoryFile(directoryData)
