@@ -6,7 +6,9 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "fs": "^0.0.1-security",
+    "fs-extra": "^11.1.1",
     "node-xlsx": "^0.15.0",
+    "path": "^0.12.7",
     "request": "^2.88.0",
     "superagent": "^6.0.0"
   },

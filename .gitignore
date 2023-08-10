@@ -8,3 +8,5 @@ node_modules/
 *.ntvs*
 *.njsproj
 *.sln
+
+xptool/data
