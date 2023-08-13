@@ -45,7 +45,7 @@ const readFilesInDirectory = (dir) => {
 
 const outputJson = (tempPath, directoryPath) => {
     fse.outputJson(tempPath, readFilesInDirectory(directoryPath)).then(r => {
-      console.log('r', r)
+      console.log('生成json文件成功', r)
     }).catch()
 }
 
@@ -62,7 +62,6 @@ const readDirectoryFile = (directoryData) => {
 
 // 指定需要读取的文件夹路径
 // 以龙华山咀头店为例
-const directoryPath = path.resolve(__dirname, '../data');
+const directoryPath = path.resolve(__dirname, '../sz');
 const directoryData = readDirectory(directoryPath)
-console.log('directoryData: ', directoryData);
 readDirectoryFile(directoryData)
