@@ -42,26 +42,25 @@ const readFilesInDirectory = (dir) => {
 
     return json
 }
-
+let outputIndex = 0
 const outputJson = (tempPath, directoryPath) => {
     fse.outputJson(tempPath, readFilesInDirectory(directoryPath)).then(r => {
-      console.log('生成json文件成功', r)
+      console.log('导出json文件', directoryPath.split('/')[1], ++outputIndex)
     }).catch()
 }
 
 const readDirectoryFile = (directoryData) => {
+    
     directoryData.forEach((file, index) => {
-        // console.log('file: ', file);
         const arr = file.split('/')
         const filePath = arr[arr.length-1]
-        const newDataPath = path.resolve(__dirname, '../new-data/'+filePath+'.json')
-        // if (index !== 0) return
+        const newDataPath = path.resolve(__dirname, '../new-data/' + filePath + '.json')
         outputJson(newDataPath, file)
     })
 }
 
 // 指定需要读取的文件夹路径
 // 以龙华山咀头店为例
-const directoryPath = path.resolve(__dirname, '../data');
+const directoryPath = path.resolve(__dirname, '../sz');
 const directoryData = readDirectory(directoryPath)
 readDirectoryFile(directoryData)
