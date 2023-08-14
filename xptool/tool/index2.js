@@ -62,6 +62,6 @@ const readDirectoryFile = (directoryData) => {
 
 // 指定需要读取的文件夹路径
 // 以龙华山咀头店为例
-const directoryPath = path.resolve(__dirname, '../sz');
+const directoryPath = path.resolve(__dirname, '../data');
 const directoryData = readDirectory(directoryPath)
 readDirectoryFile(directoryData)
