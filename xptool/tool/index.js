@@ -8,6 +8,7 @@ const readFilesInDirectory = (dir) => {
     const files = fse.readdirSync(dir);
     
     files.forEach(file => {
+        console.log(file);
         const filePath = `${dir}/${file}`;
         const stats = fse.statSync(filePath);
         
@@ -32,14 +33,6 @@ const readFilesInDirectory = (dir) => {
     return json
 }
 
-const outputJson = (tempPath, directoryPath) => {
-    fse.outputJson(tempPath, readFilesInDirectory(directoryPath)).then(r => {
-      console.log('r', r)
-    }).catch()
-}
-
 // 指定需要读取的文件夹路径
-// 以龙华山咀头店为例
-const directoryPath = path.resolve(__dirname, '../data/f105f21d-2d80-4695-a9e2-490a5e3b069f');
-const temporaryPath = path.resolve(__dirname, '../new-data/f105f21d-2d80-4695-a9e2-490a5e3b069f.json');
-outputJson(temporaryPath, directoryPath)
+const directoryPath = path.resolve(__dirname, '../new-data/');
+readFilesInDirectory(directoryPath)
