@@ -50,7 +50,6 @@ const outputJson = (tempPath, directoryPath) => {
 }
 
 const readDirectoryFile = (directoryData) => {
-    
     directoryData.forEach((file, index) => {
         const arr = file.split('/')
         const filePath = arr[arr.length-1]
@@ -63,4 +62,5 @@ const readDirectoryFile = (directoryData) => {
 // 以龙华山咀头店为例
 const directoryPath = path.resolve(__dirname, '../sz');
 const directoryData = readDirectory(directoryPath)
+console.log('directoryData: ', directoryData);
 readDirectoryFile(directoryData)
