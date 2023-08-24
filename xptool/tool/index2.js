@@ -49,6 +49,14 @@ const outputJson = (tempPath, directoryPath) => {
     }).catch()
 }
 
+const outputDirectoryJson = (data) => {
+    const outputData = data.map((e) => e.split('sz/')[1])
+    const tempPath = path.resolve(__dirname, '../new-data/tool.json')
+    fse.outputJson(tempPath, {data: outputData}).then(r => {
+        console.log('导出json目录')
+    }).catch()
+}
+
 const readDirectoryFile = (directoryData) => {
     directoryData.forEach((file, index) => {
         const arr = file.split('/')
@@ -62,5 +70,6 @@ const readDirectoryFile = (directoryData) => {
 // 以龙华山咀头店为例
 const directoryPath = path.resolve(__dirname, '../sz');
 const directoryData = readDirectory(directoryPath)
-console.log('directoryData: ', directoryData);
+// console.log('directoryData: ', directoryData);
+outputDirectoryJson(directoryData)
 readDirectoryFile(directoryData)
