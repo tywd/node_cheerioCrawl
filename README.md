@@ -26,3 +26,11 @@ nodejs简易爬取新浪体育的新闻数据 新浪体育地址：http://sports
 2. 导出excel 
 ![导出excel表格](https://images.gitee.com/uploads/images/2018/0821/191410_276b483b_1022787.jpeg "1534849938(1).jpg")
 
+
+#### node执行错误记录
+
+报错信息
+`FATAL ERROR: CALL_AND_RETRY_LAST Allocation failed - JavaScript heap out of memory`
+
+解除执行报错
+`node --max-old-space-size=8192 your_script.js`

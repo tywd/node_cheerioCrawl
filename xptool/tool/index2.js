@@ -3,18 +3,14 @@ const path = require('path');
 const readDirectory = (dir) => {
     const data = []
     // 读取目录下的所有文件和子目录
-    const json = {}
     const files = fse.readdirSync(dir);
-    
     files.forEach(file => {
         const filePath = `${dir}/${file}`;
         const stats = fse.statSync(filePath);
-        
         if (stats.isDirectory()) {
             data.push(filePath)
         }
     });
-
     return data
 }
 
@@ -23,7 +19,6 @@ const readFilesInDirectory = (dir) => {
     // 读取目录下的所有文件和子目录
     const json = {}
     const files = fse.readdirSync(dir);
-    
     files.forEach(file => {
         const filePath = `${dir}/${file}`;
         const stats = fse.statSync(filePath);
@@ -37,7 +32,16 @@ const readFilesInDirectory = (dir) => {
 
     data.forEach((e) => {
         const statsData = fse.readJsonSync(dir + '/' + e + '.json')
-        json[e] = statsData
+        const newData = statsData.map(e => (
+            {
+                pay_rule: e.pay_rule,  // 支付规则
+                table_order: e.table_order, // 订单object
+                money: e.money, // 消费金额
+                address: e.address, // 设备名称
+                address_name: e.address_name // 设备名称
+            }
+        ))
+        json[e] = newData
     })
 
     return json
@@ -73,3 +77,5 @@ const directoryData = readDirectory(directoryPath)
 // console.log('directoryData: ', directoryData);
 outputDirectoryJson(directoryData)
 readDirectoryFile(directoryData)
+
+// readFilesInDirectory(path.resolve(__dirname, '../sz/5c6b413e-6569-492f-a3ee-4ac56436a4c1_深圳上川店/'))
