@@ -1,5 +1,18 @@
 const fse = require('fs-extra')
 const path = require('path');
+
+const getKey = (key) => {
+    const nDate = new Date(Number(key) * 1000)
+    const month = nDate.getMonth() === 12 ? 1 : nDate.getMonth()+1
+    const date = nDate.getDate()
+    return `${month}-${date}`
+}
+
+const filterDay = (dateStr) => {
+    if (getKey(dateStr) === '7-16' || getKey(dateStr) === '8-12') return false
+    return true
+}
+
 const readDirectory = (dir) => {
     const data = []
     // 读取目录下的所有文件和子目录
@@ -31,6 +44,7 @@ const readFilesInDirectory = (dir) => {
     });
 
     data.forEach((e) => {
+        if (!filterDay(e)) return false
         const statsData = fse.readJsonSync(dir + '/' + e + '.json')
         const newData = statsData.map(e => (
             {
