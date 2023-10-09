@@ -48,8 +48,15 @@ const readFilesInDirectory = (dir) => {
         const statsData = fse.readJsonSync(dir + '/' + e + '.json')
         const newData = statsData.map(e => (
             {
-                pay_rule: e.pay_rule,  // 支付规则
-                table_order: e.table_order, // 订单object
+                pay_rule: {
+                    per_money: e.pay_rule.per_money || 0,
+                    per_time: e.pay_rule.per_time || 0,
+                },  // 支付规则
+                table_order: e.table_order ? {
+                    used_time: e.table_order.used_time,
+                    id: e.table_order.id,
+                    created_at: e.table_order.created_at
+                } : null, // 订单object
                 money: e.money, // 消费金额
                 address: e.address, // 设备名称
                 address_name: e.address_name // 设备名称
